@@ -94,5 +94,8 @@ var eerr=document.getElementById("eerr");
             p.style.border="2px solid red";
             perr.innerHTML="Enter a valid phone-number";
        }
+    else{
+        window.location.href="../Html/myPage5.html";
+    }
     
 }

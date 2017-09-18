@@ -129,11 +129,21 @@ text-align: center;}
     color:darkolivegreen;
 }
 
+#tab1
+{
+    width:632px;
+}
+
+#tab1 td
+{
+    padding:9px;
+}
+
 #ferr,#lerr,#perr,#eerr,#serr,#sterr,#berr
 {
-    float:right;
+    float:left;
     height:25px;
-    width:40%; 
+    width:100%; 
     //border:2px solid black;
     font-size:15px;
     color:darkred;
